@@ -11,7 +11,7 @@ const Aside = () => {
 
   const tweetsCol = collection(db, 'tweets');
 
-  // döükmanlar ile alakları istatistik hesaplamay yarar
+  // dökümanlar ile alakalı istatistik hesaplamayı yapar
   // 1) kolleksiyonun referansı
   // 2) sum / avarage / count
   useEffect(() => {
@@ -22,7 +22,7 @@ const Aside = () => {
 
   return (
     <div className="max-lg:hidden p-3">
-      <h1>Toplam Gönderi Sayısı: {data.tweetsCount}</h1>
+      <h1>Toplam Gönderi Sayısı: {data?.tweetsCount}</h1>
     </div>
   );
 };
