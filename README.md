@@ -29,7 +29,7 @@ Used to quickly create customizable and modern-looking user interfaces. Can be u
 
 ⚛️The Twitter_Clone project combines Firebase's real-time database and authentication structure with React to create a quality twitter clone project. The use of modern and powerful technologies in the front-end and back-end positively affects the performance and development process of the project.
 
-## ✅ Firebase_Twitter_Clone Project
+## ✅ Firebase_Twitter_Clone
 
 <img src="./public/twitter-gif/twitter_clone.gif"/>
 
