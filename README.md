@@ -1,5 +1,6 @@
 # firebase-TwitterClone
-# ✅ Firebase_Twitter_Clone Project
+
+
 
 ✨This project is a Twitter Clone developed using Firebase and React. It mimics the basic functionality of Twitter, allowing users to send, like and delete tweets. 
 
@@ -27,6 +28,8 @@ Used to create unique IDs. For example, each tweet should have a unique ID.
 Used to quickly create customizable and modern-looking user interfaces. Can be used to make CSS style definitions faster and more consistent.
 
 ⚛️The Twitter_Clone project combines Firebase's real-time database and authentication structure with React to create a quality twitter clone project. The use of modern and powerful technologies in the front-end and back-end positively affects the performance and development process of the project.
+
+## ✅ Firebase_Twitter_Clone Project
 
 <img src="./public/twitter-gif/twitter_clone.gif"/>
 
